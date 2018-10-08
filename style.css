@@ -1,0 +1,36 @@
+#title {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border: white 2px solid;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+#main {
+    background: url(https://img.cache.vevo.com/thumb/cms/5b70646251a3679a18a6e21b298c3c902017129172756615.jpg)
+}
+
+#img-pic {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    border: white 2px solid;
+    border-radius: 3px;
+}
+
+#text {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: black;
+    border: 2px white solid;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+    font-family: 'K2D', sans-serif;
+}
